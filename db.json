@@ -1,0 +1,36 @@
+{
+    "jenisPenggunaJasa": {
+        "responseCode": "RSx700004",
+        "responseMessage": "Ferizy Service - RsRsVehicleCategoryRf Sukses",
+        "responseReferenceNo": "84ccf037553d4f40840398898c30a952",
+        "jenisPenggunaJasa": {
+            "id": "jenis-pengguna-jasa",
+            "name": "Jenis Pengguna Jasa",
+            "data": [
+                {
+                    "id": "pejalan-kaki",
+                    "name": "Pejalan Kaki"
+                },
+                {
+                    "id": "kendaraan",
+                    "name": "Kendaraan",
+                    "imgUrl": "http://www.asdp.com/1111",
+                    "detail": [
+                        {
+                            "serviceName": "Golongan I",
+                            "serviceCode": "GOL I",
+                            "description": "Sepeda Gayuh",
+                            "passengerCapacity": "0"
+                        },
+                        {
+                            "serviceName": "Golongan II ",
+                            "serviceCode": "GOL II",
+                            "description": "Sepeda motor roda 2 di bawah 500 cc & gerobak dorong",
+                            "passengerCapacity": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
